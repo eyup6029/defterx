@@ -205,3 +205,32 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# .NET / Visual Studio / WPF / C#
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+*.cache
+.vs/
+*.csproj.user
+x64/
+x86/
+*.userprefs
+*.pidb
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+[Tt]est[Rr]esult*/
